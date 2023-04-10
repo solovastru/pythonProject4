@@ -47,12 +47,15 @@ print(lst)
 
 
 # 5 dict_func
-my_dict ={
-    "Type": "iPhone_13",
-    "Brand": "Apple",
-    "Price": "820€"
-    }
+# my_dict ={
+   # "Type": "iPhone_13",
+    #"Brand": "Apple",
+    #"Price": "820€"
+   # }
 
-# print(f"You have an" + {"Type"} + "from" + {"Brand"} + "and it costs" + {"Price"})
+#print(f"You have an {my_dict["Type"]} from {my_dict["Brand"]} and it costs {my_dict["Price"]}.")
 
+
+# sets are unordered, tuple are unmutable, in an array elements can repeate themselves.
+# concepts of object oriented
 
